@@ -1,0 +1,1 @@
+Again, a simple factory structure was used, but this time more than one factory was used. So different kinds of objects were created in different factories.
